@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "little-lemon-newsletter-signup",
-    "slug": "little-lemon-newsletter-signup",
+    "name": "littleLemon",
+    "slug": "littleLemon",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
